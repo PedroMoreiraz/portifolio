@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Portfólio - Pedro</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/9ab1b784a4.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <section class="intro">
+    <h1>&lt; Hello, eu sou Pedro /&gt;</h1>
+    <p>Desenvolvedor <strong>FULL-STACK</strong>.</p>
+  </section>
+
+  <section class="skills">
+    <div class="skill-box">
+      <h2><i class="fas fa-user-friends"></i> Soft Skills</h2>
+      <ul>
+        <li>Comunicação</li>
+        <li>Trabalho em equipe</li>
+        <li>Adaptabilidade</li>
+        <li>Proatividade</li>
+      </ul>
+    </div>
+    <div class="skill-box">
+      <h2><i class="fas fa-tools"></i> Hard Skills</h2>
+      <ul>
+        <li><i class="fab fa-html5"></i> HTML, <i class="fab fa-css3-alt"></i> CSS, <i class="fab fa-js-square"></i> JS</li>
+        <li><i class="fab fa-react"></i> React, <i class="fab fa-node-js"></i> Node.js</li>
+        <li><i class="fab fa-git-alt"></i> Git, <i class="fab fa-github"></i> GitHub</li>
+        <li>🔗 APIs REST</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="carousel-section">
+    <h2> Meus Projetos</h2>
+    <div class="carousel-container">
+      <button id="prevBtn">⬅</button>
+
+      <div class="carousel" id="carousel">
+        <div class="carousel-track" id="carousel-track">
+          <!-- Card 1 -->
+          <div class="card">
+            <div class="card-front">
+              <h3>Tabuada</h3>
+              <img src="./imagens/tabuada.jpg" alt="Tabuada">
+              <button class="flip-btn">Ver mais</button>
+            </div>
+            <div class="card-back">
+              <p>Tabuada feita com HTML, CSS e JavaScript.</p>
+              <a href="tabuada/tabuada.html" target="_blank">Acessar projeto</a>
+              <button class="flip-btn">Voltar</button>
+            </div>
+          </div>
+
+          <!-- Card 2 -->
+          <div class="card">
+            <div class="card-front">
+              <h3>Contador</h3>
+              <img src="./imagens/contador.png" alt="Contador">
+              <button class="flip-btn">Ver mais</button>
+            </div>
+            <div class="card-back">
+              <p>Contador de números feito com HTML, CSS e JavaScript.</p>
+              <a href="contador/contador.html" target="_blank">Acessar projeto</a>
+              <button class="flip-btn">Voltar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <button id="nextBtn">➡</button>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
