@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portifolio/candys/static/css/main.c1fa48bf.css",
+    "main.js": "/portifolio/candys/static/js/main.a55a7980.js",
+    "static/js/453.0476721d.chunk.js": "/portifolio/candys/static/js/453.0476721d.chunk.js",
+    "static/media/moeda1.png": "/portifolio/candys/static/media/moeda1.2612412b76004ba21555.png",
+    "static/media/finibanana.png": "/portifolio/candys/static/media/finibanana.adbe8e14bda0caad5742.png",
+    "static/media/finiminhoca.png": "/portifolio/candys/static/media/finiminhoca.541e84ad345b3c31b084.png",
+    "static/media/finibeijos.png": "/portifolio/candys/static/media/finibeijos.4235d3953a46a115a0bc.png",
+    "static/media/nota5.jpg": "/portifolio/candys/static/media/nota5.07e1c8f6b183033580d2.jpg",
+    "static/media/nota2.jpg": "/portifolio/candys/static/media/nota2.4c870a61fd13e426bcad.jpg",
+    "index.html": "/portifolio/candys/index.html",
+    "main.c1fa48bf.css.map": "/portifolio/candys/static/css/main.c1fa48bf.css.map",
+    "main.a55a7980.js.map": "/portifolio/candys/static/js/main.a55a7980.js.map",
+    "453.0476721d.chunk.js.map": "/portifolio/candys/static/js/453.0476721d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1fa48bf.css",
+    "static/js/main.a55a7980.js"
+  ]
+}
