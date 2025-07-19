@@ -24,3 +24,14 @@
 #task-list li button:hover {
     color: #0d6efd;
 }
+
+@media (max-width: 576px) {
+    form {
+        flex-direction: column;
+    }
+
+    form input,
+    form button {
+        width: 100%;
+    }
+}
