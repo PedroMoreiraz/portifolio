@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/meu-estoque/static/js/main.a394eef7.js",
-    "index.html": "/meu-estoque/index.html",
-    "main.a394eef7.js.map": "/meu-estoque/static/js/main.a394eef7.js.map"
+    "main.js": "/portifolio/meu-estoque/static/js/main.279281a2.js",
+    "index.html": "/portifolio/meu-estoque/index.html",
+    "main.279281a2.js.map": "/portifolio/meu-estoque/static/js/main.279281a2.js.map"
   },
   "entrypoints": [
-    "static/js/main.a394eef7.js"
+    "static/js/main.279281a2.js"
   ]
 }
